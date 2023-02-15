@@ -1,1 +1,1 @@
-script that switches the current user to the user 
+0x03. Shell, init files, variables and expansions
